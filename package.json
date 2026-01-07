@@ -15,7 +15,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/vite": "^4.1.12",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.23.12",
+    "framer-motion": "^11.18.2",
     "github-markdown-css": "^5.8.1",
     "lucide-react": "^0.542.0",
     "react": "^19.1.1",
