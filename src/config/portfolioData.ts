@@ -244,7 +244,7 @@ export const PORTFOLIO_INFO: Portfolio = {
       description: "Alochona is an experimental chatbot hosted on Hugging Face Spaces. It uses OpenAI under the hood for responses. This project was built as a way to explore chatbot UIs, Hugging Face deployment, and integrating OpenAI APIs.",
       image:
         "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc5dDY1c2ZnOGs0ODF0eDkwbzBvMHZ2ZXJvYml2amRmdzN2dnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7AFQj6uviWpwudbOWg/giphy.gif",
-      href: "https://huggingface.co/spaces/satya00089/alochona",
+      // href: "https://huggingface.co/spaces/satya00089/alochona",
       links: [
         // {
         //   label: "Huggingface",
@@ -266,13 +266,13 @@ export const PORTFOLIO_INFO: Portfolio = {
       tags: ["React", "CSS"],
       image:
         "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RjaHAxY3N3enY0d3RldWVpczg2ZTNzMHhsY2dpam0yYnp6bWh2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P2jddT5c9g9OeHI17p/giphy.gif",
-      href: "https://satya00089.github.io/night-sky",
+      // href: "https://satya00089.github.io/night-sky",
       links: [
-        {
-          label: "Watch",
-          url: "https://www.loom.com/share/1516014366e34135a67f5dd4e551fec5",
-          icon: "FaPlay",
-        },
+        // {
+        //   label: "Watch",
+        //   url: "https://www.loom.com/share/1516014366e34135a67f5dd4e551fec5",
+        //   icon: "FaPlay",
+        // },
         {
           label: "GitHub",
           url: "https://github.com/Enjoying-Dev/night-sky",
